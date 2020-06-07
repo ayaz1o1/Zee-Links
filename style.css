@@ -1,0 +1,194 @@
+body
+{
+    background-color: #F3F3F3;
+}
+
+.socialContainer
+{
+    margin-top: 10px important!;
+}
+
+
+.social
+{
+    width: 20px;
+}
+
+.brand
+{
+    width: 100px;
+}
+
+/* OFFER CARDS ON HOME PAGE  */
+.offerCard1
+{
+    display: inline-block;
+    margin: 10px;
+    width: 300px;
+    /* min-width: 150px; */
+    background-image: linear-gradient(rgb(207, 12, 77), yellow);
+}
+
+
+.offerCard2
+{
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    /* min-width:150px ; */
+    /* background-image: linear-gradient(orange, yellow); */
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.7987570028011204) 35%, rgba(0,212,255,1) 100%);
+}
+
+.offerCard3
+{
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    /* min-width: 150px; */
+    background-image: linear-gradient(blue, yellow);
+}
+
+/* OFFER CARD CONTAINER  */
+.offerCardcontainer
+{
+    text-align: center;
+    margin-top: 7px;
+}
+
+.offerCardimage
+{
+    width: 250px;
+}
+
+a:hover
+{
+color: red;
+text-decoration: none;
+}
+
+h1
+{
+    margin-top: 20px;
+    position: absolute;
+    width: inherit;
+    font-weight: bolder;
+    font-size: 40px;
+    color:white;
+    font: serif;
+}
+.pimg1
+{
+    position: absolute;
+    color: lightskyblue;
+    width: inherit;
+    margin-top: 120px;
+    font-weight: bolder;
+    color: lightgoldenrodyellow;
+    font-size: 20px;
+}
+
+/* CARDS 1 ANCHOR FOR SHOP NOW and span over it  */
+.card1Href
+{
+width: inherit;
+/* text-align: center important!; */
+/* display: inline-block; */
+/* background-color:white; */
+/* position: absolute; */
+/* margin-top: 146px; */
+/* border: 2px solid yellowgreen; */
+}
+
+.cardHref1
+{
+    position: absolute;
+    /* display: inline-block; */
+    width: 100px;
+    margin-left: 80px;
+    /* background-color: lawngreen; */
+    margin-top: 145px;
+    /* margin-block-start: auto 10%; */
+    /* font-weight: bolder; */
+    color: red;
+    border: 2px solid blue;
+    text-align: inherit;
+}
+
+/* TP LINKS PAGE CARDS  */
+
+.colt
+{
+    width: 300px;
+    height: 300px;
+    /* border: 2px solid silver; */
+    /* background-color: #DF2B34; */
+    /* background-image: linear-gradient(white,lightskyblue); */
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0 0 8px #777777;
+
+}
+
+/* @media only screen and (max-width: 600px){
+    .colt
+    {
+        width: 200px;
+        height:200px ;
+    }
+}
+
+ @media only screen and (max-width: 800px){
+    .colt
+    {
+        width: 250px;
+        height: 250px;
+    }
+}  */
+.containerss
+{
+    text-align: center;
+    /* color: silver; */
+}
+.tp
+{
+    margin-top: 2px;
+    width: 150px;
+    /* margin-right: 100px; */
+    /* text-align: center; */
+}
+
+.cardHref11
+
+{
+    /* position: absolute; */
+    /* display: inline-block; */
+    width: 20px;
+    margin-top: 300px important!;
+    /* margin-left: 80px; */
+    /* background-color: lawngreen; */
+    /* margin-top: 200px; */
+    /* margin-block-start: auto 10%; */
+    /* font-weight: bolder; */
+    color: red;
+    border: 2px solid blue;
+    /* text-align: inherit; */
+
+
+}
+
+.cardHref11:hover
+{
+    text-decoration: none;
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+hr.hrcards
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px solid silver;
+}
